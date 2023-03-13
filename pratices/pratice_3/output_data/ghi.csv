@@ -1,0 +1,517 @@
+Country,hunger_index,year
+Belarus,5,2000
+Bosnia and Herzegovina,9.3,2000
+Chile,5,2000
+China,13.3,2000
+Croatia,5,2000
+Estonia,5,2000
+Hungary,5.5,2000
+Kuwait,5,2000
+Latvia,5.6,2000
+Lithuania,5.4,2000
+Montenegro,99,2000
+North Macedonia,7.5,2000
+Romania,7.9,2000
+Serbia,99,2000
+Slovakia,7,2000
+Tu?rkiye,10.1,2000
+Uruguay,7.4,2000
+Costa Rica,7,2000
+United Arab Emirates,6.2,2000
+Brazil,11.4,2000
+Uzbekistan,24.2,2000
+Georgia,12.3,2000
+Mongolia,30,2000
+Bulgaria,8.6,2000
+Kazakhstan,11.2,2000
+Tunisia,10.3,2000
+Albania,20.7,2000
+Russian Federation,10.1,2000
+Iran,13.7,2000
+Saudi Arabia,11,2000
+Argentina,6.6,2000
+Algeria,14.5,2000
+Armenia,19.3,2000
+Moldova,18.7,2000
+Jamaica,8.6,2000
+Azerbaijan,24.9,2000
+Ukraine,13,2000
+Colombia,10.9,2000
+Peru,20.6,2000
+Kyrgyzstan,18,2000
+Paraguay,11.6,2000
+Mexico,10.2,2000
+Panama,18.6,2000
+El Salvador,14.7,2000
+Dominican Republic,15,2000
+Trinidad and Tobago,11,2000
+Fiji,9.5,2000
+Morocco,15.8,2000
+Turkmenistan,20.4,2000
+Suriname,15.1,2000
+Guyana,17.1,2000
+Lebanon,11.6,2000
+Jordan,10.8,2000
+Cabo Verde,15.3,2000
+Viet Nam,26.3,2000
+Thailand,18.6,2000
+Egypt,16.3,2000
+Malaysia,15.4,2000
+South Africa,18.1,2000
+Oman,14.7,2000
+Bolivia,27.7,2000
+Honduras,21.8,2000
+Mauritius,15.3,2000
+Nicaragua,22.4,2000
+Sri Lanka,21.7,2000
+Iraq,23.8,2000
+Ghana,28.5,2000
+Tajikistan,40.3,2000
+Philippines,25,2000
+Ecuador,19.7,2000
+Myanmar,39.9,2000
+Senegal,34.2,2000
+Eswatini,24.7,2000
+C�te d'Ivoire,33.4,2000
+Cambodia,41.1,2000
+Gabon,20.9,2000
+Indonesia,26.1,2000
+Namibia,25.4,2000
+Guatemala,28.4,2000
+Cameroon,35.8,2000
+Nepal,37,2000
+Lao,44.2,2000
+Solomon Islands,20.1,2000
+Bangladesh,33.9,2000
+Venezuela,14.6,2000
+Botswana,27.7,2000
+Gambia,29,2000
+Malawi,43.3,2000
+Mauritania,31.8,2000
+Djibouti,44.3,2000
+Benin,33.8,2000
+Togo,39.3,2000
+Mali,41.7,2000
+Kenya,36.6,2000
+Tanzania,40.8,2000
+Burkina Faso,44.9,2000
+Korea,39.5,2000
+Angola,64.9,2000
+Pakistan,36.8,2000
+Papua New Guinea,33.6,2000
+Comoros,39.5,2000
+Rwanda,49.9,2000
+Nigeria,40.4,2000
+Ethiopia,53.6,2000
+Congo,34.7,2000
+Sudan,0,2000
+India,38.8,2000
+Zambia,53.3,2000
+Afghanistan,50.3,2000
+Timor-Leste,0,2000
+Guinea-Bissau,37.7,2000
+Sierra Leone,57.5,2000
+Lesotho,32.7,2000
+Liberia,48.2,2000
+Niger,52.5,2000
+Haiti,40.9,2000
+Guinea,99,2000
+Mozambique,99,2000
+Uganda,99,2000
+Zimbabwe,99,2000
+Chad,50.7,2000
+Congo,48,2000
+Madagascar,42.5,2000
+Central African Republic,48.8,2000
+Yemen,41.3,2000
+Burundi,99,2000
+Somalia,99,2000
+South Sudan,99,2000
+Syria,99,2000
+Belarus,5,2007
+Bosnia and Herzegovina,6.6,2007
+Chile,5,2007
+China,7.8,2007
+Croatia,5,2007
+Estonia,5,2007
+Hungary,5,2007
+Kuwait,5,2007
+Latvia,5,2007
+Lithuania,5,2007
+Montenegro,5.4,2007
+North Macedonia,7.2,2007
+Romania,5.8,2007
+Serbia,6.1,2007
+Slovakia,5.9,2007
+Tu?rkiye,5.8,2007
+Uruguay,6.5,2007
+Costa Rica,5,2007
+United Arab Emirates,6.5,2007
+Brazil,7.1,2007
+Uzbekistan,15.4,2007
+Georgia,7.8,2007
+Mongolia,21.8,2007
+Bulgaria,7.9,2007
+Kazakhstan,11.6,2007
+Tunisia,7.6,2007
+Albania,15.8,2007
+Russian Federation,7.1,2007
+Iran,8.8,2007
+Saudi Arabia,12.2,2007
+Argentina,5.5,2007
+Algeria,11.4,2007
+Armenia,12.1,2007
+Moldova,20.3,2007
+Jamaica,8.1,2007
+Azerbaijan,15.3,2007
+Ukraine,7.2,2007
+Colombia,11.2,2007
+Peru,15,2007
+Kyrgyzstan,13.6,2007
+Paraguay,11.4,2007
+Mexico,8.5,2007
+Panama,14,2007
+El Salvador,12.1,2007
+Dominican Republic,13.9,2007
+Trinidad and Tobago,10.7,2007
+Fiji,8.5,2007
+Morocco,12.4,2007
+Turkmenistan,14.6,2007
+Suriname,11.3,2007
+Guyana,15.8,2007
+Lebanon,11.2,2007
+Jordan,7.5,2007
+Cabo Verde,11.9,2007
+Viet Nam,21.4,2007
+Thailand,12.1,2007
+Egypt,17.2,2007
+Malaysia,13.8,2007
+South Africa,17.2,2007
+Oman,11.5,2007
+Bolivia,22,2007
+Honduras,19.2,2007
+Mauritius,14.1,2007
+Nicaragua,17.9,2007
+Sri Lanka,18.9,2007
+Iraq,20.8,2007
+Ghana,22.1,2007
+Tajikistan,32.9,2007
+Philippines,19.5,2007
+Ecuador,18.6,2007
+Myanmar,29.4,2007
+Senegal,22.8,2007
+Eswatini,22.9,2007
+C�te d'Ivoire,35.8,2007
+Cambodia,26.1,2007
+Gabon,20.3,2007
+Indonesia,29.1,2007
+Namibia,26.8,2007
+Guatemala,24.1,2007
+Cameroon,29.9,2007
+Nepal,30,2007
+Lao,31.4,2007
+Solomon Islands,18.1,2007
+Bangladesh,31.3,2007
+Venezuela,10.1,2007
+Botswana,25.8,2007
+Gambia,26.5,2007
+Malawi,32.5,2007
+Mauritania,28.3,2007
+Djibouti,35.8,2007
+Benin,26.9,2007
+Togo,30.2,2007
+Mali,35.7,2007
+Kenya,31.1,2007
+Tanzania,30.9,2007
+Burkina Faso,34.5,2007
+Korea,29.6,2007
+Angola,44.7,2007
+Pakistan,32.1,2007
+Papua New Guinea,29.9,2007
+Comoros,31.7,2007
+Rwanda,35.9,2007
+Nigeria,32.1,2007
+Ethiopia,42.6,2007
+Congo,33.7,2007
+Sudan,0,2007
+India,36.3,2007
+Zambia,46,2007
+Afghanistan,38.7,2007
+Timor-Leste,45.5,2007
+Guinea-Bissau,31,2007
+Sierra Leone,51.1,2007
+Lesotho,29.1,2007
+Liberia,39,2007
+Niger,40.2,2007
+Haiti,41.7,2007
+Guinea,99,2007
+Mozambique,99,2007
+Uganda,99,2007
+Zimbabwe,99,2007
+Chad,49,2007
+Congo,43.2,2007
+Madagascar,37.2,2007
+Central African Republic,46.8,2007
+Yemen,38.4,2007
+Burundi,99,2007
+Somalia,99,2007
+South Sudan,99,2007
+Syria,99,2007
+Belarus,5,2014
+Bosnia and Herzegovina,5,2014
+Chile,5,2014
+China,5,2014
+Croatia,5,2014
+Estonia,5,2014
+Hungary,5,2014
+Kuwait,5,2014
+Latvia,5,2014
+Lithuania,5,2014
+Montenegro,5,2014
+North Macedonia,5,2014
+Romania,5.1,2014
+Serbia,5.8,2014
+Slovakia,5.7,2014
+Tu?rkiye,5,2014
+Uruguay,5,2014
+Costa Rica,5,2014
+United Arab Emirates,5.9,2014
+Brazil,5,2014
+Uzbekistan,8.3,2014
+Georgia,6.1,2014
+Mongolia,9.2,2014
+Bulgaria,7.4,2014
+Kazakhstan,5.8,2014
+Tunisia,6.7,2014
+Albania,9.2,2014
+Russian Federation,6.7,2014
+Iran,7.4,2014
+Saudi Arabia,7.4,2014
+Argentina,5,2014
+Algeria,8.7,2014
+Armenia,7.3,2014
+Moldova,6.8,2014
+Jamaica,8.8,2014
+Azerbaijan,9.3,2014
+Ukraine,7.2,2014
+Colombia,8.6,2014
+Peru,7.6,2014
+Kyrgyzstan,9.4,2014
+Paraguay,8.1,2014
+Mexico,7,2014
+Panama,9.4,2014
+El Salvador,10.4,2014
+Dominican Republic,9.8,2014
+Trinidad and Tobago,8.8,2014
+Fiji,9.3,2014
+Morocco,9.6,2014
+Turkmenistan,10.6,2014
+Suriname,10,2014
+Guyana,12.4,2014
+Lebanon,8.7,2014
+Jordan,7.4,2014
+Cabo Verde,12.1,2014
+Viet Nam,15.4,2014
+Thailand,11.9,2014
+Egypt,14.6,2014
+Malaysia,10.9,2014
+South Africa,12.7,2014
+Oman,11.5,2014
+Bolivia,14.7,2014
+Honduras,14.1,2014
+Mauritius,13,2014
+Nicaragua,15.5,2014
+Sri Lanka,17.3,2014
+Iraq,16.6,2014
+Ghana,15.5,2014
+Tajikistan,20.6,2014
+Philippines,18.8,2014
+Ecuador,11.7,2014
+Myanmar,17.9,2014
+Senegal,17.6,2014
+Eswatini,18.4,2014
+C�te d'Ivoire,22.7,2014
+Cambodia,20.1,2014
+Gabon,16.5,2014
+Indonesia,22.2,2014
+Namibia,22.9,2014
+Guatemala,21.7,2014
+Cameroon,21.4,2014
+Nepal,21.2,2014
+Lao,22.5,2014
+Solomon Islands,22.3,2014
+Bangladesh,26.3,2014
+Venezuela,8.1,2014
+Botswana,20.5,2014
+Gambia,22.2,2014
+Malawi,24.1,2014
+Mauritania,26.3,2014
+Djibouti,27.4,2014
+Benin,23.2,2014
+Togo,26.1,2014
+Mali,26.1,2014
+Kenya,21.6,2014
+Tanzania,25.5,2014
+Burkina Faso,26.5,2014
+Korea,27.5,2014
+Angola,26.2,2014
+Pakistan,29.6,2014
+Papua New Guinea,29,2014
+Comoros,29.1,2014
+Rwanda,29.5,2014
+Nigeria,28.4,2014
+Ethiopia,27.4,2014
+Congo,25.3,2014
+Sudan,29.3,2014
+India,28.2,2014
+Zambia,35.2,2014
+Afghanistan,30.6,2014
+Timor-Leste,33.3,2014
+Guinea-Bissau,30.2,2014
+Sierra Leone,33.1,2014
+Lesotho,29.3,2014
+Liberia,34.8,2014
+Niger,32.8,2014
+Haiti,32.6,2014
+Guinea,99,2014
+Mozambique,99,2014
+Uganda,99,2014
+Zimbabwe,99,2014
+Chad,40.7,2014
+Congo,38.7,2014
+Madagascar,37.3,2014
+Central African Republic,44.6,2014
+Yemen,41.7,2014
+Burundi,99,2014
+Somalia,99,2014
+South Sudan,99,2014
+Syria,99,2014
+Belarus,5,2022
+Bosnia and Herzegovina,5,2022
+Chile,5,2022
+China,5,2022
+Croatia,5,2022
+Estonia,5,2022
+Hungary,5,2022
+Kuwait,5,2022
+Latvia,5,2022
+Lithuania,5,2022
+Montenegro,5,2022
+North Macedonia,5,2022
+Romania,5,2022
+Serbia,5,2022
+Slovakia,5,2022
+Tu?rkiye,5,2022
+Uruguay,5,2022
+Costa Rica,5.3,2022
+United Arab Emirates,5.3,2022
+Brazil,5.4,2022
+Uzbekistan,5.6,2022
+Georgia,5.7,2022
+Mongolia,5.7,2022
+Bulgaria,5.9,2022
+Kazakhstan,5.9,2022
+Tunisia,6.1,2022
+Albania,6.2,2022
+Russian Federation,6.4,2022
+Iran,6.5,2022
+Saudi Arabia,6.7,2022
+Argentina,6.8,2022
+Algeria,6.9,2022
+Armenia,6.9,2022
+Moldova,6.9,2022
+Jamaica,7,2022
+Azerbaijan,7.5,2022
+Ukraine,7.5,2022
+Colombia,7.6,2022
+Peru,7.6,2022
+Kyrgyzstan,7.8,2022
+Paraguay,8,2022
+Mexico,8.1,2022
+Panama,8.1,2022
+El Salvador,8.4,2022
+Dominican Republic,8.8,2022
+Trinidad and Tobago,9,2022
+Fiji,9.2,2022
+Morocco,9.2,2022
+Turkmenistan,9.5,2022
+Suriname,10.2,2022
+Guyana,10.4,2022
+Lebanon,10.5,2022
+Jordan,10.6,2022
+Cabo Verde,11.8,2022
+Viet Nam,11.9,2022
+Thailand,12,2022
+Egypt,12.3,2022
+Malaysia,12.5,2022
+South Africa,12.9,2022
+Oman,13,2022
+Bolivia,13.2,2022
+Honduras,13.4,2022
+Mauritius,13.4,2022
+Nicaragua,13.6,2022
+Sri Lanka,13.6,2022
+Iraq,13.7,2022
+Ghana,13.9,2022
+Tajikistan,13.9,2022
+Philippines,14.8,2022
+Ecuador,15.2,2022
+Myanmar,15.6,2022
+Senegal,15.6,2022
+Eswatini,16.3,2022
+C�te d'Ivoire,16.8,2022
+Cambodia,17.1,2022
+Gabon,17.2,2022
+Indonesia,17.9,2022
+Namibia,18.7,2022
+Guatemala,18.8,2022
+Cameroon,18.9,2022
+Nepal,19.1,2022
+Lao,19.2,2022
+Solomon Islands,19.4,2022
+Bangladesh,19.6,2022
+Venezuela,19.9,2022
+Botswana,20,2022
+Gambia,20.7,2022
+Malawi,20.7,2022
+Mauritania,20.7,2022
+Djibouti,21.5,2022
+Benin,21.7,2022
+Togo,22.8,2022
+Mali,23.2,2022
+Kenya,23.5,2022
+Tanzania,23.6,2022
+Burkina Faso,24.5,2022
+Korea,24.9,2022
+Angola,25.9,2022
+Pakistan,26.1,2022
+Papua New Guinea,26.5,2022
+Comoros,26.9,2022
+Rwanda,27.2,2022
+Nigeria,27.3,2022
+Ethiopia,27.6,2022
+Congo,28.1,2022
+Sudan,28.8,2022
+India,29.1,2022
+Zambia,29.3,2022
+Afghanistan,29.9,2022
+Timor-Leste,30.6,2022
+Guinea-Bissau,30.8,2022
+Sierra Leone,31.5,2022
+Lesotho,32.4,2022
+Liberia,32.4,2022
+Niger,32.6,2022
+Haiti,32.7,2022
+Guinea,34.920ﾖ34.9,2022
+Mozambique,34.920ﾖ34.9,2022
+Uganda,34.920ﾖ34.9,2022
+Zimbabwe,34.920ﾖ34.9,2022
+Chad,37.2,2022
+Congo,37.8,2022
+Madagascar,38.7,2022
+Central African Republic,44,2022
+Yemen,45.1,2022
+Burundi,49.935-49.9,2022
+Somalia,49.935-49.9,2022
+South Sudan,49.935-49.9,2022
+Syria,49.935-49.9,2022
