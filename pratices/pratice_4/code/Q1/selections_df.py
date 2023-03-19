@@ -2,9 +2,17 @@ import pandas as pd
 
 
 def format_df(df: pd.DataFrame, select_team: int, drop_team: int) -> pd.DataFrame:
-    df = df.drop(columns=[f"SPI{drop_team}", f"Prob{drop_team}"])
+    df = df.drop(columns=[f"spi{drop_team}", f"prob{drop_team}"])
 
-    df = df.rename(columns={f"Team_{select_team}": "Team", f"SPI{select_team}": "SPI", f"Prob{select_team}": "Prob", f"Team_{drop_team}": "adversary"})
+    df = df.rename(
+        columns={
+            f"team{select_team}": "team", 
+            f"spi{select_team}": "spi", 
+            f"prob{select_team}": "prob", 
+            f"team{drop_team}": "adversary",
+            f"score{select_team}": "score",
+            f"score{drop_team}": "score_adversary"
+        })
 
     return df
     
@@ -16,4 +24,4 @@ df_team2 = format_df(df, 2, 1)
 
 result_df = pd.concat([df_team1, df_team2])
 
-df.info()
+result_df.to_csv("pratices/pratice_4/output_data/selections_metrics.csv")
