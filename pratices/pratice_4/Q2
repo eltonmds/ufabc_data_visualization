@@ -1,0 +1,12 @@
+##Design da visualização
+###Visão Geral do Dominio
+O objetivo da visualização é apresentar (interpretabilidade) os dados referentes à quantidade de alunos por estado norte-americano por categoria de ensino (In person, Remote ou Hybrid), ou seja, apresentar de forma simples e direta qual o valor de cada categoria por estado, permitindo a comparação rápida apenas olhando no mapa. O público alvo é composto por pessoas que se interessem e queiram verificar esses dados, podendo observar e levantar comparativos entre as modalidades e os estados. Além disso, é esperado que esse público alvo tenha algum conhecimento sobre os estados que compões os estados unidos.
+
+###Abstrações de Dados e Tarefas
+Os dados são dados temporais (pois pertencem aos anos 2021 - 2022), dispostos de forma tabular, cujos atributos dos dados são de caráter nominal com disponibilidade estática. As tarefas se resumem a apresentar e identificar quantos alunos cada modalidade de ensino possuia.  Permitindo uma identificação rápida do estado a que pertenciam.
+
+###Visual Encoding e Interaçõe
+Utilização de primitivas visuais de tonalidade (estados), com precisao associativa (pela forma dos estados), com tipos de descrição em arestas. Além disso, dispõe o valor nominal de cada quantidade de alunos por categoria sobre o mapa, no estado que essa medida pertence.
+
+Link para visualização no tableau:
+https://public.tableau.com/app/profile/pedro1641/viz/pratica4_vis_ex_2/Dashboard1
