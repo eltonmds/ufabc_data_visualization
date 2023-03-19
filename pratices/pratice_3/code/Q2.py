@@ -1,7 +1,4 @@
 import pandas as pd
-import os
-
-print(os.getcwd())
 
 def format_df(df: pd.DataFrame, year: int) -> pd.DataFrame:
     df = (
